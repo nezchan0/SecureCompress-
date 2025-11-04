@@ -2,11 +2,12 @@
 
 **Privacy-first offline image compressor for official documents**
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://YOUR-USERNAME.github.io/securecompress/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![No Tracking](https://img.shields.io/badge/tracking-none-success)](https://YOUR-USERNAME.github.io/securecompress/)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://nezchan0.github.io/SecureCompress-/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![No Tracking](https://img.shields.io/badge/tracking-none-success)](https://github.com/nezchan0/SecureCompress)
 
-**🌐 Live Demo:** https://YOUR-USERNAME.github.io/securecompress/
+
+**🌐 Live Demo:** (https://nezchan0.github.io/SecureCompress-/)
 
 ---
 
@@ -40,7 +41,7 @@ A secure, browser-based application that processes images **entirely on your dev
 
 ## 🚀 Quick Start
 
-1. **Visit** the [live demo](https://YOUR-USERNAME.github.io/securecompress/)
+1. **Visit** the [live demo](https://nezchan0.github.io/SecureCompress-/)
 2. **Select** your image file
 3. **Configure** output format, DPI, and dimensions
 4. **Use** the CM→PX helper for physical size requirements
@@ -74,7 +75,7 @@ No installation required. No sign-up. No tracking.
 
 SecureCompress is built with privacy as the foundation:
 
-- ✅ **No data collection** - We don't see or store your images
+- ✅ **No data collection** - No one can see or store your images
 - ✅ **No cookies or tracking** - Zero analytics or monitoring
 - ✅ **No external API calls** - Everything runs locally
 - ✅ **No image uploads** - Files never leave your device
@@ -85,17 +86,7 @@ SecureCompress is built with privacy as the foundation:
 
 ---
 
-## 📖 How It Works
 
-1. You select an image from your computer
-2. The browser reads it using the File API
-3. Image is rendered on an HTML5 Canvas
-4. You adjust settings (size, format, DPI, quality)
-5. Canvas processes the image with your settings
-6. Download starts directly from your browser
-7. **No server ever sees your image**
-
----
 
 ## 💡 CM to PX Helper
 
@@ -137,14 +128,12 @@ The built-in converter does this math for you automatically!
 Want to run it locally or contribute?
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/securecompress.git
+git clone https://github.com/nezchan0/SecureCompress.git
 cd securecompress
 
 # Open in browser
 # Simply open index.html in your browser
-# Or use a local server:
-python -m http.server 8000
-# Visit: http://localhost:8000
+
 ```
 
 ---
@@ -155,44 +144,25 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **Ideas for contribution:**
 - Additional image formats
-- Batch processing
 - Image cropping tool
 - Aspect ratio presets
 - More metadata extraction
 
 ---
 
-## 📝 License
 
-MIT License - See [LICENSE](LICENSE) file for details.
+## 📜 License
 
-Free to use, modify, and distribute.
+This project is licensed under the [MIT License](LICENSE) — feel free to use, modify, and distribute it freely, with attribution.
 
----
-
-## ⭐ Support
-
-If SecureCompress helped you:
-- ⭐ Star this repository
-- 🐛 Report bugs via Issues
-- 💡 Suggest features
-- 🔀 Contribute improvements
-- 📢 Share with others who need it
 
 ---
 
-## 📞 Contact
+## 🧑‍💻 Author
 
-Have questions or feedback? Open an issue on GitHub!
+Alok Kumar Maurya – Developer | Email: [alok05.maurya@gmail.com](alok05.maurya@gmail.com)
 
----
 
-**Made with ❤️ for privacy-conscious users**
-
-*Secure by design. Private by default.*
-```
-
----
 
 ## 🎨 Optional: Create a Logo
 
